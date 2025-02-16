@@ -1,1 +1,1 @@
-![perfilGMG](https://github.com/user-attachments/assets/17ea92a1-ea17-4dd4-a89f-bd3e660c4341)
+![perfil2](https://github.com/user-attachments/assets/2ab6e420-fa59-427c-bef4-12b57fa73472)
