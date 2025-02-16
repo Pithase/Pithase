@@ -1,7 +1,8 @@
 ![perfil-recortado](https://github.com/user-attachments/assets/e71ba623-770e-4f7f-aa56-92fa0247fc81)
 
-# Bienvenido a mi GitHub 
-**`Lenguaje ENSAMBLADOR, cómo te quiero, juntos desde la mágica época de los BBS.`**
+# Bienvenido a mi GitHub  
+
+> **`Lenguaje ENSAMBLADOR, cómo te quiero, juntos desde la mágica época de los BBS.`**  
 
 Soy **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack Developer Senior** y **Data Science Team Leader**.
 
