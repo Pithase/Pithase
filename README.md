@@ -1,1 +1,3 @@
-![perfil2](https://github.com/user-attachments/assets/2ab6e420-fa59-427c-bef4-12b57fa73472)
+![perfil-recortado](https://github.com/user-attachments/assets/e71ba623-770e-4f7f-aa56-92fa0247fc81)
+
+Hola, soy Gastón y que vuelen los ángles !!!
