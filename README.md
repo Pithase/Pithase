@@ -1,4 +1,4 @@
-![perfil-recortado-2](https://github.com/user-attachments/assets/1d50afaa-ca82-4ec9-a264-bd83d4900df4)
+![perfil-recortado-3](https://github.com/user-attachments/assets/42ca9cee-adba-4bf3-ac13-5757827d0ed0)
 
 # Bienvenido a mi GitHub  
 
