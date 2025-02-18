@@ -6,7 +6,7 @@
 
 Soy Gastón, **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack Developer Senior** y **Data Science Team Leader**.
 
-- Me apasiona la **investigación, el desarrollo y la innovación**.
+- Me apasiona la **investigación**, el **desarrollo** y la **innovación**.
 - Vivo y respiro **programación**.
 - Me encanta la **seguridad informática ofensiva**.  
 - Disfruto enfrentar **desafíos técnicos complejos**.
