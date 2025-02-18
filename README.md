@@ -9,7 +9,8 @@ Soy Gastón, **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack
 - Me apasiona la **investigación, el desarrollo y la innovación**.
 - Vivo y respiro **programación**.
 - Me encanta la **seguridad informática ofensiva**.  
-- Disfruto enfrentar **desafíos técnicos complejos**.  
+- Disfruto enfrentar **desafíos técnicos complejos**.
+- Siempre dispuesto a **aprender** y **compartir** conocimientos.  
 
 En este espacio comparto proyectos, investigaciones, herramientas y experimentos sobre mis áreas de interés.
 
