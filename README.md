@@ -13,4 +13,9 @@ Soy Gastón, **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack
 - Siempre dispuesto a **aprender** y **compartir** conocimientos.  
 
 En este espacio comparto proyectos, investigaciones, herramientas y experimentos sobre mis áreas de interés.
-
+<br>
+<br>
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=pithase&show_icons=true&theme=light&locale=es&hide_rank=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pithase&theme=light&locale=es" />
+</p>
