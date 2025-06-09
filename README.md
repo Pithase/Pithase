@@ -4,7 +4,7 @@
 
 > **`Lenguaje ENSAMBLADOR, cómo te quiero, juntos desde la mágica época de los BBS.`**  
 
-Soy Gastón, **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack Developer Senior** y **Data Science Team Leader**.
+Soy **Gastón**, **Ingeniero en Sistemas**, actualmente trabajando como **Full Stack Developer Senior** y **Data Science Team Leader**.
 
 - Me apasiona la **investigación**, el **desarrollo** y la **innovación**.
 - Vivo y respiro **programación**.
