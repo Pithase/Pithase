@@ -16,6 +16,6 @@ En este espacio comparto proyectos, investigaciones, herramientas y experimentos
 <br>
 <br>
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=pithase&show_icons=true&theme=light&locale=es&hide_rank=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pithase&theme=light&locale=es" />
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pithase&show_icons=true&theme=light&locale=es&hide_rank=true" />
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pithase&theme=light&locale=es" />
 </p>
